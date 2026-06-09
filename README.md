@@ -24,78 +24,203 @@
 - Machine Learning
 
 ---
-
 ## 🛠️ Technical Skills
 
-### Languages
-- HTML
-- CSS
-- JavaScript
-- PHP
-- SQL
 
-### Frameworks & Libraries
-- Laravel
-- React.js (Basic)
-- Bootstrap
 
-### Database
-- MySQL
+### 💻 Languages
 
-### Tools
-- Git
-- GitHub
-- VS Code
 
-### Concepts
-- MVC Architecture
-- API Integration
-- Responsive Design
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+
 
 ---
 
+
+
+### 🚀 Frameworks & Libraries
+
+
+
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+
+
+---
+
+
+
+### 🗄️ Database
+
+
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+
+
+---
+
+
+
+### 🛠️ Tools
+
+
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
+
+
+---
+
+
+
+### 📚 Concepts
+
+
+
+<img src="https://img.shields.io/badge/MVC_Architecture-FF6B6B?style=for-the-badge"/> <img src="https://img.shields.io/badge/API_Integration-4CAF50?style=for-the-badge"/> <img src="https://img.shields.io/badge/Responsive_Design-2196F3?style=for-the-badge"/>
+
+
+---
 ## 💼 Experience
 
-### Junior Web Developer Intern
-**Darshan Digital Solutions**
+<table>
+<tr>
+<td>
 
-#### CRM Project – Bansal Classes
-- Developed a live CRM application using Laravel, HTML, CSS, JavaScript, and MySQL.
-- Participated in complete SDLC from development to deployment.
-- Gathered requirements through direct client interaction.
+### 🚀 Junior Web Developer Intern
 
-#### Document Management System (DMS)
-- Performed testing, debugging, and bug fixing.
-- Implemented client-requested changes.
-- Improved system performance and usability.
+🏢 **Darshan Digital Solutions**
+
+📅 **Duration:** 4 Months
+
+📍 Pune, Maharashtra
 
 ---
 
-## 🚀 Projects
+### 🎓 CRM Project – Bansal Classes
 
-### CRM for Educational Institute
-- Enquiry Management
-- Student Admission
-- Fee Management
-- Follow-up Tracking
-- Dashboard & Reports
+✅ Developed a live CRM application using Laravel, HTML, CSS, JavaScript, and MySQL.
 
-**Tech Stack:** Laravel, PHP, JavaScript, MySQL
+✅ Participated in complete SDLC from development to deployment.
 
-### AI Study Notes Summarizer
-- Upload PDF Notes
-- AI Generated Summaries
-- Keyword Extraction
-- Question Generation
+✅ Gathered requirements through direct client interaction.
 
-**Tech Stack:** Python, NLP, Machine Learning
+✅ Assisted in testing, debugging, and deployment.
 
-### Fashion Website
-- Product Browsing
-- Responsive Design
-- User-Friendly Interface
+<br>
 
-**Tech Stack:** Laravel, PHP, HTML, CSS, JavaScript, MySQL
+**🛠 Tech Stack**
+
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+---
+
+### 📂 Document Management System (DMS)
+
+✅ Performed testing, debugging, and bug fixing.
+
+✅ Implemented client-requested changes.
+
+✅ Improved system performance and usability.
+
+✅ Worked closely with clients to understand requirements.
+
+<br>
+
+**🛠 Tech Stack**
+
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+
+
+
+---
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### 🎓 CRM for Educational Institute
+
+🔹 Enquiry Management<br>
+🔹 Student Admission<br>
+🔹 Fee Management<br>
+🔹 Follow-up Tracking<br>
+🔹 Dashboard & Reports
+
+<br>
+
+**🛠 Tech Stack**
+
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🤖 AI Resume Analyzer
+
+🔹 Upload PDF Notes<br>
+🔹 AI Generated Summaries<br>
+🔹 Keyword Extraction<br>
+🔹 Question Generation
+
+<br>
+<br>
+<br>
+
+**🛠 Tech Stack**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-00C853?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square"/>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 👗 Fashion Website
+
+🔹 Product Browsing<br>
+🔹 Responsive Design<br>
+🔹 User-Friendly Interface
+
+<br>
+<br>
+<br>
+<br>
+
+**🛠 Tech Stack**
+
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+</td>
+
+</tr>
+</table>
+
 
 ---
 
